@@ -96,8 +96,8 @@
         "options": {
           "legend": {
             "calcs": [],
-            "displayMode": "list",
-            "placement": "bottom",
+            "displayMode": "table",
+            "placement": "right",
             "showLegend": true
           },
           "tooltip": {
