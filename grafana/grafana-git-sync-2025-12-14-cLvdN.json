@@ -90,7 +90,7 @@
           }
         ],
         "title": "Memory Usage (Gauge)",
-        "type": "gauge"
+        "type": "timeseries"
       }
     ],
     "preload": false,
